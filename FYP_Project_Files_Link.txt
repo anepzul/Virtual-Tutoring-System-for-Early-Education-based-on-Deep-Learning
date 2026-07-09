@@ -1,0 +1,23 @@
+FYP PROJECT FILES
+
+Project Title:
+Intelligent Virtual Tutor System for Early Childhood Learning Based on Deep Learning
+
+Description:
+This file provides access to the project files for the Final Year Project (FYP). The project is an AI-powered web-based virtual tutoring system designed to support early childhood learning through chatbot interaction, voice input, image classification, and real-time animal detection.
+
+Google Drive Project File:
+https://drive.google.com/file/d/1ldslvJwcuuJUVXad-q4K0PwESfEUK8DX/view?usp=sharing
+
+Project Keywords:
+Artificial Intelligence, Deep Learning, Machine Learning, Natural Language Processing, Computer Vision, Chatbot, Image Classification, Object Detection, YOLO, ResNet50, DistilBERT, Flask, Python, Speech-to-Text, Educational Technology, Early Childhood Learning.
+
+Notes:
+- The project files are stored in Google Drive because some files may be large, including trained models, datasets, or related resources.
+- Please access the Google Drive link above to download the full project files.
+- This project was developed for academic and educational purposes.
+
+Author:
+Zulhanif Bin Ramli
+Bachelor of Computer Science
+Universiti Kebangsaan Malaysia (UKM)
